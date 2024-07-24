@@ -2,6 +2,3 @@
 
 Sudha
 bhargahvi
-meganath
-sai
-swamy
